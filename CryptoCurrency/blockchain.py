@@ -78,7 +78,7 @@ class Blockchain():
 def main():
     
     blockchain = Blockchain()
-    database = ["Hello WOrld", "Gay", "fuck off", "six"]
+    database = ["Hello WOrld", "Ten", "mortar", "six"]
 
     num = 0
     for data in database:
